@@ -20,7 +20,7 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
 public class TesteApiWebMotors {
-	/* @author Wilson Lucchini*/
+	/* @author Cesar Silva*/
 	
 	@Dado("que o usuário deseja fazer uma consulta completa do retorno da Api")
 	@Quando("enviar a requisição")
