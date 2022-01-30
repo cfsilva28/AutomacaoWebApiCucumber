@@ -23,7 +23,7 @@ import pages.MainPage;
 import pages.ResultadoPage;
 
 public class BuscaSteps {
-	/* @author Wilson Lucchini*/
+	/* @author Cesar Silva*/
 	
 	private WebDriver driver;
 	private MainPage mainpage;
